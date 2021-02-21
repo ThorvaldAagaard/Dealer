@@ -1,0 +1,10 @@
+*.obj
+scan.c
+lex.yy.c
+y.tab.h
+y.tab.c
+defs.tab.c
+bison/**
+
+win_bison.exe
+win_flex.exe
