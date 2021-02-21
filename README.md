@@ -1,5 +1,7 @@
 Dealer by Hans van Staveren
 
+Install Visual Studio Code
+
 Install Flex and Bison from https://sourceforge.net/projects/winflexbison/files/win_flex_bison3-latest.zip/download
 
 The simplest is to download the above zip-file and extract the 2 executables
